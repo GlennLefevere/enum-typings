@@ -1,6 +1,6 @@
 {
   "name": "enum-typings",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "fix enum export typings",
   "main": "index.js",
   "bin": "./enum-typings",
