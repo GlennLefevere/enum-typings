@@ -2,4 +2,5 @@
 test/
 
 *.ts
+*.spec.js
 *.iml
