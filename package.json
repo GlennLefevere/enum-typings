@@ -1,0 +1,19 @@
+{
+  "name": "enum-typings",
+  "version": "0.0.0",
+  "description": "fix enum export typings",
+  "main": "index.js",
+  "bin": "./enum-typings",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && jasmine **/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "@types/jasmine": "~3.5.0",
+    "jasmine": "^3.5.0",
+    "typescript": "^4.3.3"
+  }
+}
